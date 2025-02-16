@@ -19,3 +19,17 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@layer utilities {
+  .font-ivy {
+    font-family: "IvyPresto Display", serif !important;
+  }
+}
+
+@layer utilities {
+  .font-hoves {
+    font-family: "TT Hoves", sans-serif !important;
+  }
+}
+
+
